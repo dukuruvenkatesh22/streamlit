@@ -1,11 +1,23 @@
 {
   "version": 2,
   "builds": [
-    { "src": "api/*.py", "use": "@vercel/python" },
-    { "src": "package.json", "use": "@vercel/next" }
+    {
+      "src": "Demo.py",
+      "use": "@vercel/python",
+      "config": {
+        "maxLambdaSize": "50mb",
+        "includeFiles": [
+          ".streamlit/**",
+          "books.json",
+          ".env"
+        ]
+      }
+    }
   ],
   "routes": [
-    { "src": "/api/(.*)", "dest": "api/$1.py" },
-    { "src": "/(.*)", "dest": "/$1" }
+    {
+      "src": "/(.*)",
+      "dest": "Demo.py"
+    }
   ]
 }
