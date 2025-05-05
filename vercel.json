@@ -5,7 +5,7 @@
       "src": "Demo.py",
       "use": "@vercel/python",
       "config": {
-        "maxLambdaSize": "500mb",
+        "maxLambdaSize": "50mb",
         "includeFiles": [
           ".streamlit/**",
           "books.json",
