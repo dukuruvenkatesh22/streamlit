@@ -1,0 +1,10 @@
+[server]
+port = 8590
+
+[theme]
+base = "dark"
+primaryColor = "red"
+
+[browser]
+serverAddress = "apps.akratech.com"
+gatherUsageStats = false

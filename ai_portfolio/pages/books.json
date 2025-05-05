@@ -1,0 +1,252 @@
+[
+  {
+      "name": "To Kill a Mockingbird",
+      "genre": "Fiction",
+      "price": 14.99
+  },
+  {
+      "name": "1984",
+      "genre": "Fiction",
+      "price": 9.99
+  },
+  {
+      "name": "The Great Gatsby",
+      "genre": "Fiction",
+      "price": 10.99
+  },
+  {
+      "name": "Pride and Prejudice",
+      "genre": "Fiction",
+      "price": 12.50
+  },
+  {
+      "name": "The Catcher in the Rye",
+      "genre": "Fiction",
+      "price": 11.25
+  },
+  {
+      "name": "The Lord of the Rings",
+      "genre": "Fiction",
+      "price": 19.99
+  },
+  {
+      "name": "Brave New World",
+      "genre": "Fiction",
+      "price": 15.00
+  },
+  {
+      "name": "The Chronicles of Narnia",
+      "genre": "Fiction",
+      "price": 17.99
+  },
+  {
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "genre": "Fiction",
+      "price": 12.99
+  },
+  {
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "genre": "Fiction",
+      "price": 9.99
+  },
+  {
+      "name": "The Alchemist",
+      "genre": "Fiction",
+      "price": 13.99
+  },
+  {
+      "name": "The Picture of Dorian Gray",
+      "genre": "Fiction",
+      "price": 11.50
+  },
+  {
+      "name": "Moby Dick",
+      "genre": "Fiction",
+      "price": 15.99
+  },
+  {
+      "name": "War and Peace",
+      "genre": "Fiction",
+      "price": 22.50
+  },
+  {
+      "name": "The Grapes of Wrath",
+      "genre": "Fiction",
+      "price": 12.99
+  },
+  {
+      "name": "Little Women",
+      "genre": "Fiction",
+      "price": 10.99
+  },
+  {
+      "name": "Wuthering Heights",
+      "genre": "Fiction",
+      "price": 14.00
+  },
+  {
+      "name": "Fahrenheit 451",
+      "genre": "Fiction",
+      "price": 13.50
+  },
+  {
+      "name": "The Fault in Our Stars",
+      "genre": "Fiction",
+      "price": 10.99
+  },
+  {
+      "name": "The Book Thief",
+      "genre": "Fiction",
+      "price": 12.50
+  },
+  {
+      "name": "The Handmaid's Tale",
+      "genre": "Fiction",
+      "price": 15.99
+  },
+  {
+      "name": "The Kite Runner",
+      "genre": "Fiction",
+      "price": 16.50
+  },
+  {
+      "name": "A Tale of Two Cities",
+      "genre": "Fiction",
+      "price": 10.00
+  },
+  {
+      "name": "Sapiens: A Brief History of Humankind",
+      "genre": "Non-Fiction",
+      "price": 19.99
+  },
+  {
+      "name": "Educated",
+      "genre": "Non-Fiction",
+      "price": 18.99
+  },
+  {
+      "name": "Becoming",
+      "genre": "Non-Fiction",
+      "price": 20.00
+  },
+  {
+      "name": "The Immortal Life of Henrietta Lacks",
+      "genre": "Non-Fiction",
+      "price": 16.99
+  },
+  {
+      "name": "Outliers: The Story of Success",
+      "genre": "Non-Fiction",
+      "price": 15.99
+  },
+  {
+      "name": "The Power of Habit",
+      "genre": "Non-Fiction",
+      "price": 14.50
+  },
+  {
+      "name": "Thinking, Fast and Slow",
+      "genre": "Non-Fiction",
+      "price": 18.00
+  },
+  {
+      "name": "The Body Keeps the Score",
+      "genre": "Non-Fiction",
+      "price": 22.50
+  },
+  {
+      "name": "The 7 Habits of Highly Effective People",
+      "genre": "Non-Fiction",
+      "price": 16.99
+  },
+  {
+      "name": "How to Win Friends and Influence People",
+      "genre": "Non-Fiction",
+      "price": 15.00
+  },
+  {
+      "name": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+      "genre": "Non-Fiction",
+      "price": 17.99
+  },
+  {
+      "name": "The Subtle Art of Not Giving a F*ck",
+      "genre": "Non-Fiction",
+      "price": 14.99
+  },
+  {
+      "name": "The Art of War",
+      "genre": "Non-Fiction",
+      "price": 10.99
+  },
+  {
+      "name": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+      "genre": "Non-Fiction",
+      "price": 15.99
+  },
+  {
+      "name": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+      "genre": "Non-Fiction",
+      "price": 16.99
+  },
+  {
+      "name": "Born a Crime: Stories from a South African Childhood",
+      "genre": "Non-Fiction",
+      "price": 16.50
+  },
+  {
+      "name": "The Tipping Point: How Little Things Can Make a Big Difference",
+      "genre": "Non-Fiction",
+      "price": 14.00
+  },
+  {
+      "name": "Grit: The Power of Passion and Perseverance",
+      "genre": "Non-Fiction",
+      "price": 17.50
+  },
+  {
+      "name": "Astrophysics for People in a Hurry",
+      "genre": "Non-Fiction",
+      "price": 12.99
+  },
+  {
+      "name": "The Five Love Languages",
+      "genre": "Non-Fiction",
+      "price": 14.99
+  },
+  {
+      "name": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+      "genre": "Non-Fiction",
+      "price": 18.00
+  },
+  {
+      "name": "Man's Search for Meaning",
+      "genre": "Non-Fiction",
+      "price": 15.00
+  },
+  {
+      "name": "The 48 Laws of Power",
+      "genre": "Non-Fiction",
+      "price": 19.50
+  },
+  {
+      "name": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
+      "genre": "Non-Fiction",
+      "price": 18.99
+  },
+  {
+      "name": "The Happiness Project",
+      "genre": "Non-Fiction",
+      "price": 14.99
+  },
+  {
+      "name": "Skinny Bitch: A No-Nonsense Tough-Love Guide for Savvy Girls Who Want to Stop Eating Crap",
+      "genre": "Non-Fiction",
+      "price": 15.99
+  },
+  {
+      "name": "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts",
+      "genre": "Non-Fiction",
+      "price": 13.99
+  }
+]
