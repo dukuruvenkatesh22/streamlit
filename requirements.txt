@@ -3,5 +3,4 @@ requests==2.31.0
 selenium==4.12.0
 python-decouple
 openai==0.28.0
-python-dotenv
 
